@@ -23,7 +23,9 @@ RAG means the AI first retrieves relevant data from an external knowledge base, 
 
 ## Screenshots
 
-Workflow screenshots will be added in the `screenshots` folder.
+### Main Chatbot Workflow (n8n)
+
+![Workflow overview](screenshots/workflow-overview.png)
 
 ## Note
 
