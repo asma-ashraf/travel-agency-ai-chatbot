@@ -20,7 +20,11 @@ An AI-powered travel agency chatbot built with **n8n**, **Google Gemini**, **Sup
 ## How RAG Works Here
 
 RAG means the AI first retrieves relevant data from an external knowledge base, then uses it to generate a better answer. In this project, tour information is stored in Supabase, and the chatbot retrieves the matching information before replying.
+## Demo Video
 
+Watch the chatbot answer tour questions, take a booking, create a Stripe test payment link and send a confirmation email:
+
+[Watch the demo on YouTube](https://youtu.be/JCQxK6uTvxg)
 ## Screenshots
 
 ### Main Chatbot Workflow (n8n)
